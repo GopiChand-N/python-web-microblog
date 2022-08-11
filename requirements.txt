@@ -10,3 +10,4 @@ MarkupSafe==2.1.1
 pymongo==4.2.0
 python-dotenv==0.20.0
 Werkzeug==2.2.2
+topology==1.17.0
